@@ -1,1 +1,1 @@
-# Water_portability_prediction
+# WaterPotablity
